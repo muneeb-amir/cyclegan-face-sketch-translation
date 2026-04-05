@@ -119,4 +119,12 @@ pip install -r requirements.txt
 * Suitable for experimentation and extension into modular pipelines
 
 ## Results
+DURING TRAINING:
+
+<img width="733" height="540" alt="image" src="https://github.com/user-attachments/assets/593172eb-1856-49f5-a8c7-c8e2cfe1792b" />
+
+AFTER TRAINING:
+
+<img width="378" height="379" alt="Screenshot 2025-11-20 150024" src="https://github.com/user-attachments/assets/057b61e7-4da9-4253-b23d-271467c246fa" />
+
 
